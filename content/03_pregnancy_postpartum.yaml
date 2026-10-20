@@ -1,0 +1,137 @@
+# NURU content library: pregnancy and postpartum (ujauzito na baada ya kujifungua)
+# Every entry is DRAFT until a licensed clinician signs it off.
+# Danger signs are ALSO handled by the red-flag engine (nuru/red_flags.py),
+# which runs first and sends a fixed message. The entry below is for people who
+# ask about danger signs in general, not for someone who has one.
+
+entries:
+  - id: preg_antenatal_visits
+    topic: kliniki_ya_ujauzito
+    life_stage: pregnancy
+    type: faq
+    questions:
+      - nianze kliniki ya ujauzito lini
+      - nihudhurie kliniki mara ngapi nikiwa mjamzito
+      - kliniki ya mama mjamzito inafanya nini
+      - when should i start antenatal clinic
+    keywords: [kliniki, ujauzito, mjamzito, antenatal, mahudhurio, mara ngapi, kuanza]
+    answer_sw: >-
+      Anza kliniki ya ujauzito mapema, ndani ya wiki 12 za mwanzo. WHO inashauri kuonana na
+      mtoa huduma angalau mara 8 kabla ya kujifungua. Utapimwa damu, presha, VVU na kaswende,
+      na kupewa vidonge vya madini chuma na folic acid. Huduma hizi ni bure vituo vya serikali.
+    note_en: >-
+      First ANC contact before 12 weeks; WHO 2016 recommends a minimum of 8 contacts. Routine
+      tests and iron plus folic acid. Maternal services free in public facilities.
+    sources:
+      - WHO recommendations on antenatal care for a positive pregnancy experience (2016)
+      - Tanzania MoH antenatal care guidelines
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: preg_nutrition_dos
+    topic: lishe_ujauzito
+    life_stage: pregnancy
+    type: faq
+    questions:
+      - mjamzito ale nini
+      - lishe bora wakati wa ujauzito
+      - vyakula vizuri kwa mama mjamzito
+      - what should i eat when pregnant
+    keywords: [lishe, vyakula, kula, mjamzito, ujauzito, madini chuma, nutrition]
+    answer_sw: >-
+      Ukiwa mjamzito ongeza mlo mmoja kila siku. Kula nafaka, maharage, mboga za majani,
+      matunda, maziwa, samaki, mayai au nyama. Kunywa maji safi ya kutosha. Meza vidonge vya
+      madini chuma na folic acid ulivyopewa kliniki kila siku. Tumia chumvi yenye madini joto.
+    note_en: >-
+      One extra meal or snack daily, diverse diet, safe water, daily iron plus folic acid as
+      provided at ANC, iodised salt.
+    sources:
+      - WHO recommendations on antenatal care for a positive pregnancy experience (2016)
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: preg_nutrition_donts
+    topic: lishe_ujauzito
+    life_stage: pregnancy
+    type: faq
+    questions:
+      - mjamzito aepuke nini
+      - vitu vya kuepuka wakati wa ujauzito
+      - naweza kunywa pombe nikiwa mjamzito
+      - dawa za kienyeji wakati wa ujauzito
+      - what should i avoid when pregnant
+    keywords: [kuepuka, pombe, sigara, dawa za kienyeji, mitishamba, chandarua, malaria, avoid]
+    answer_sw: >-
+      Ukiwa mjamzito epuka pombe, sigara, na dawa yoyote au dawa za kienyeji bila ushauri wa
+      mtaalamu wa afya. Epuka nyama, mayai au maziwa ambayo hayajapikwa au kuchemshwa vizuri.
+      Lala ndani ya chandarua chenye dawa kila usiku kujikinga na malaria.
+    note_en: >-
+      Avoid alcohol, tobacco, unprescribed and herbal medicines, undercooked animal foods.
+      Sleep under an insecticide-treated net.
+    sources:
+      - WHO recommendations on antenatal care for a positive pregnancy experience (2016)
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: preg_myth_eggs
+    topic: lishe_ujauzito
+    life_stage: pregnancy
+    type: myth
+    questions:
+      - ni kweli mjamzito asile mayai
+      - mama mjamzito akila mayai mtoto atakuwa na kipara
+      - mjamzito asile samaki
+      - is it true pregnant women should not eat eggs
+    keywords: [mayai, samaki, nyama, mwiko, mjamzito, myth, kweli, kipara]
+    answer_sw: >-
+      Si kweli. Mama mjamzito anaweza na anashauriwa kula mayai, samaki na nyama. Vyakula hivi
+      vina protini na madini chuma vinavyomsaidia mama na mtoto kukua vizuri. Hakikisha
+      vimepikwa hadi kuiva. Mwiko wa vyakula hivi hauna msingi wa kitaalamu.
+    note_en: >-
+      Myth: pregnant women must avoid eggs, fish or meat. Fact: they are recommended sources of
+      protein and iron, well cooked.
+    sources:
+      - WHO recommendations on antenatal care for a positive pregnancy experience (2016)
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: preg_danger_signs_info
+    topic: dalili_za_hatari
+    life_stage: pregnancy
+    type: faq
+    questions:
+      - dalili za hatari wakati wa ujauzito ni zipi
+      - nitajuaje kama mimba ina tatizo
+      - danger signs in pregnancy
+    keywords: [dalili za hatari, hatari, ujauzito, tatizo, danger signs]
+    answer_sw: >-
+      Dalili za hatari wakati wa ujauzito: kutoka damu ukeni, kichwa kuuma sana au kuona
+      ukungu, degedege, homa, maumivu makali ya tumbo, maji kutoka ukeni, mtoto kupunguza
+      kucheza, kuvimba uso au mikono, kupumua kwa shida. Ukiona mojawapo, nenda kituo cha afya SASA.
+    note_en: >-
+      General information on pregnancy danger signs. A user reporting any of these is caught
+      by the red-flag engine before retrieval.
+    sources:
+      - WHO / Tanzania MoH maternal danger signs (birth preparedness and complication readiness)
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: post_postnatal_checks
+    topic: baada_ya_kujifungua
+    life_stage: postpartum
+    type: faq
+    questions:
+      - baada ya kujifungua niende kliniki lini
+      - mama aliyejifungua achunguzwe mara ngapi
+      - postnatal check when
+    keywords: [baada ya kujifungua, uchunguzi, postnatal, kliniki, mama, mtoto]
+    answer_sw: >-
+      Baada ya kujifungua, wewe na mtoto mnahitaji kuchunguzwa: saa 24 za kwanza, siku ya 3,
+      siku ya 7 hadi 14, na wiki ya 6. Kula vizuri, pumzika, na ongea na mtoa huduma kuhusu
+      uzazi wa mpango. Damu nyingi, homa au kichwa kuuma sana ni dalili za hatari.
+    note_en: >-
+      WHO 2022: at least 4 postnatal contacts (first 24 hours, day 3, days 7 to 14, 6 weeks).
+    sources:
+      - WHO recommendations on maternal and newborn care for a positive postnatal experience (2022)
+    status: draft_pending_clinical_review
+    reviewed_by: null

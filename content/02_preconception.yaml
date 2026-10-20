@@ -1,0 +1,70 @@
+# NURU content library: pre-conception (kabla ya mimba)
+# Every entry is DRAFT until a licensed clinician signs it off.
+
+entries:
+  - id: precon_folic_acid
+    topic: folic_acid
+    life_stage: preconception
+    type: faq
+    questions:
+      - folic acid ni nini
+      - nataka kupata mimba nimeze vidonge gani
+      - nianze folic acid lini
+      - should i take folic acid before pregnancy
+    keywords: [folic acid, foliki, vidonge, kupanga mimba, kabla ya mimba, kasoro]
+    answer_sw: >-
+      Kama unapanga kupata mimba, anza kumeza folic acid kila siku, ikiwezekana kabla ya
+      kupata mimba, na uendelee hadi wiki 12 za ujauzito au kama kliniki itakavyoshauri.
+      Husaidia kuzuia kasoro za ubongo na uti wa mgongo kwa mtoto. Vidonge vinapatikana kituo
+      cha afya.
+    note_en: >-
+      Periconceptional folic acid (WHO: 400 micrograms daily) from when trying to conceive
+      until 12 weeks gestation to prevent neural tube defects. ANC continues iron plus folic acid.
+    sources:
+      - WHO Periconceptional folic acid supplementation guidance
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: precon_nutrition_checks
+    topic: lishe
+    life_stage: preconception
+    type: faq
+    questions:
+      - nile nini kabla ya kupata mimba
+      - nijiandae vipi kupata mimba
+      - lishe bora kabla ya ujauzito
+      - how do i prepare my body for pregnancy
+    keywords: [lishe, kujiandaa, kabla ya mimba, vyakula, kupima, chumvi, madini joto]
+    answer_sw: >-
+      Kabla ya mimba, kula vyakula mchanganyiko: nafaka, maharage, mboga za majani, matunda,
+      samaki, mayai au nyama, na tumia chumvi yenye madini joto. Pima afya yako mapema
+      kituoni, ikiwemo VVU na upungufu wa damu. Epuka pombe na sigara.
+    note_en: >-
+      Diverse diet, iodised salt, pre-pregnancy screening (HIV, anaemia, and others per
+      clinician), avoid alcohol and tobacco.
+    sources:
+      - WHO Preconception care: maximizing the gains for maternal and child health (2013)
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: precon_birth_spacing
+    topic: kupishana_mimba
+    life_stage: preconception
+    type: faq
+    questions:
+      - nisubiri muda gani kupata mimba nyingine
+      - mimba zipishane miaka mingapi
+      - nimejifungua lini nipate mimba nyingine
+      - how long should i wait between pregnancies
+    keywords: [kupishana, kusubiri, mimba nyingine, birth spacing, miaka miwili, uzazi wa mpango]
+    answer_sw: >-
+      Baada ya kujifungua, WHO inashauri kusubiri angalau miaka 2 kabla ya kupata mimba
+      nyingine. Hii hulinda afya yako na ya mtoto. Baada ya mimba kuharibika, subiri angalau
+      miezi 6. Uzazi wa mpango ni bure kituo cha afya; mtoa huduma atakusaidia kuchagua njia.
+    note_en: >-
+      WHO: at least 24 months after a live birth before the next pregnancy; at least 6 months
+      after miscarriage or induced abortion.
+    sources:
+      - WHO Report of a technical consultation on birth spacing (2005)
+    status: draft_pending_clinical_review
+    reviewed_by: null

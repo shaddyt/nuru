@@ -1,0 +1,261 @@
+# NURU content library: adolescence (balehe, hedhi, uzazi wa mpango, magonjwa ya zinaa)
+#
+# Every entry is DRAFT until a licensed clinician signs it off. See
+# docs/content-guidelines.md for the writing and review process.
+# answer_sw is what NURU sends. It must stay GSM-7 and at most 306 characters.
+
+entries:
+  - id: adol_period_normal
+    topic: hedhi
+    life_stage: adolescence
+    type: faq
+    questions:
+      - hedhi ya kawaida ni siku ngapi
+      - mzunguko wa hedhi ni siku ngapi
+      - hedhi yangu haiji kwa mpangilio
+      - nimechelewa kuingia hedhi
+      - siku za mwezi zinakuja mara ngapi
+      - how long is a normal period cycle
+    keywords: [hedhi, mzunguko, siku za mwezi, period, cycle, kuchelewa]
+    answer_sw: >-
+      Hedhi huja kila siku 21 hadi 35 na hudumu siku 2 hadi 7. Miaka 1 au 2 ya kwanza
+      inaweza kuja bila mpangilio. Ukifanya ngono na hedhi ikachelewa, pima mimba kituoni.
+      Muone mtaalamu wa afya kama damu ni nyingi sana, inazidi siku 7, au hujaanza hedhi
+      ukifika miaka 15.
+    note_en: >-
+      Normal cycle 21 to 35 days, bleeding 2 to 7 days; irregular cycles common in the first
+      years after menarche. Refer if heavy bleeding, more than 7 days, or no menarche by 15.
+      Pregnancy test if sexually active and late.
+    sources:
+      - WHO / FIGO normal menstruation parameters
+      - Tanzania MoH adolescent and youth friendly services guidance
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: adol_period_pain
+    topic: hedhi
+    life_stage: adolescence
+    type: faq
+    questions:
+      - maumivu ya tumbo wakati wa hedhi nifanye nini
+      - tumbo linauma nikiwa hedhini
+      - dawa ya maumivu ya hedhi
+      - period pain what can i do
+    keywords: [maumivu, tumbo, hedhi, period pain, cramps, kuuma]
+    answer_sw: >-
+      Maumivu kidogo ya tumbo wakati wa hedhi ni kawaida. Pumzika, weka chupa ya maji ya
+      uvuguvugu tumboni, kunywa maji na fanya mazoezi mepesi. Dawa ya maumivu kama
+      paracetamol itumike kama maelekezo ya pakiti. Maumivu yakiwa makali sana au yakikuzuia
+      shule, muone mtaalamu wa afya.
+    note_en: >-
+      Mild dysmenorrhoea is common. Rest, warm compress, fluids, light exercise, simple
+      analgesia per pack instructions. Refer if severe or disabling.
+    sources:
+      - WHO adolescent health guidance
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: adol_menstrual_hygiene
+    topic: hedhi
+    life_stage: adolescence
+    type: faq
+    questions:
+      - nibadilishe pedi mara ngapi
+      - usafi wakati wa hedhi
+      - jinsi ya kufua pedi za kitambaa
+      - how often should i change my pad
+    keywords: [pedi, usafi, kitambaa, kufua, pad, hygiene, hedhi]
+    answer_sw: >-
+      Badilisha pedi kila saa 4 hadi 6, au mapema ikijaa. Osha sehemu za siri kwa maji safi
+      kwa nje tu. Pedi za kitambaa zifuliwe kwa sabuni na maji safi, zianikwe juani zikauke
+      kabisa. Nawa mikono kabla na baada ya kubadilisha pedi.
+    note_en: >-
+      Change pads every 4 to 6 hours or sooner. External washing with clean water only.
+      Reusable cloth pads washed with soap and sun dried fully. Hand hygiene.
+    sources:
+      - UNICEF Guidance on menstrual health and hygiene (2019)
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: adol_myth_period_bathing
+    topic: hedhi
+    life_stage: adolescence
+    type: myth
+    questions:
+      - ni kweli msichana akiwa hedhi hatakiwi kuoga
+      - nikiwa hedhini naweza kucheza mpira
+      - hedhi ni uchafu
+      - msichana mwenye hedhi asipike
+      - is it true i should not bathe during my period
+    keywords: [kuoga, hedhi, uchafu, mwiko, kucheza, kupika, myth, kweli]
+    answer_sw: >-
+      Si kweli. Kuoga wakati wa hedhi ni salama na ni muhimu kwa usafi. Unaweza pia kwenda
+      shule, kucheza michezo, kupika na kufanya kazi za kawaida. Hedhi si uchafu wala
+      ugonjwa, ni sehemu ya kawaida ya afya ya msichana na mwanamke.
+    note_en: >-
+      Myth: bathing, sport, cooking or school are harmful or forbidden during menstruation.
+      Fact: all are safe; menstruation is normal and not dirty.
+    sources:
+      - UNICEF Guidance on menstrual health and hygiene (2019)
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: adol_puberty
+    topic: balehe
+    life_stage: adolescence
+    type: faq
+    questions:
+      - balehe ni nini
+      - mabadiliko ya mwili wa msichana
+      - matiti yangu yanakua ni kawaida
+      - puberty changes in girls
+    keywords: [balehe, matiti, mabadiliko, mwili, chunusi, nywele, puberty]
+    answer_sw: >-
+      Balehe kwa wasichana mara nyingi huanza kati ya miaka 8 na 13: matiti kukua, nywele
+      sehemu za siri na kwapani, nyonga kupanuka, chunusi na baadaye hedhi. Kila mtu ana muda
+      wake na mabadiliko haya ni ya kawaida. Una swali zaidi? Uliza NURU au mtaalamu wa afya.
+    note_en: >-
+      Female puberty typically begins 8 to 13 years: thelarche, pubic and axillary hair,
+      growth, acne, then menarche. Normal variation in timing.
+    sources:
+      - WHO adolescent health guidance
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: fp_myth_infertility
+    topic: uzazi_wa_mpango
+    life_stage: adolescence
+    type: myth
+    questions:
+      - ni kweli uzazi wa mpango unaleta utasa
+      - sindano ya uzazi wa mpango inazuia kuzaa milele
+      - vidonge vya uzazi wa mpango vinaharibu kizazi
+      - nikitumia kipandikizi sitazaa tena
+      - does family planning cause infertility
+    keywords: [utasa, uzazi wa mpango, sindano, vidonge, kipandikizi, kitanzi, kizazi, myth, kweli, kuzaa]
+    answer_sw: >-
+      Si kweli. Njia za uzazi wa mpango hazisababishi utasa. Ukiacha vidonge, kipandikizi au
+      kitanzi, uwezo wa kupata mimba hurudi haraka. Baada ya sindano inaweza kuchukua miezi
+      kadhaa zaidi, lakini uwezo hurudi. Ongea na mtoa huduma kuchagua njia inayokufaa.
+    note_en: >-
+      Myth: contraception causes infertility. Fact: fertility returns promptly after pills,
+      implants and IUDs; return after DMPA injection is delayed by several months on average
+      but fertility is not lost.
+    sources:
+      - WHO Family Planning: A Global Handbook for Providers (2022)
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: fp_methods
+    topic: uzazi_wa_mpango
+    life_stage: adolescence
+    type: faq
+    questions:
+      - njia za uzazi wa mpango ni zipi
+      - nataka kuzuia mimba nitumie nini
+      - uzazi wa mpango unapatikana wapi
+      - what family planning methods are there
+    keywords: [uzazi wa mpango, kuzuia mimba, njia, sindano, vidonge, kitanzi, kipandikizi, contraception]
+    answer_sw: >-
+      Njia za uzazi wa mpango ni pamoja na kondomu, vidonge, sindano, vipandikizi na kitanzi.
+      Zinapatikana bure kwenye vituo vya afya vya serikali. Mtoa huduma atakusaidia kuchagua
+      njia salama kwako. Kondomu ndiyo njia inayokinga pia dhidi ya magonjwa ya zinaa na VVU.
+    note_en: >-
+      Methods: condoms, pills, injectables, implants, IUD. Free at public facilities. Only
+      condoms also protect against STIs and HIV.
+    sources:
+      - WHO Family Planning: A Global Handbook for Providers (2022)
+      - Tanzania MoH National Family Planning Guidelines
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: fp_emergency_contraception
+    topic: uzazi_wa_mpango
+    life_stage: adolescence
+    type: faq
+    questions:
+      - vidonge vya dharura vinafanyaje kazi
+      - nimefanya ngono bila kinga nizuie mimba vipi
+      - kondomu imepasuka nifanye nini
+      - P2 inatumika baada ya saa ngapi
+      - emergency contraception morning after pill
+    keywords: [dharura, vidonge vya dharura, p2, postinor, bila kinga, kondomu imepasuka, emergency]
+    answer_sw: >-
+      Vidonge vya dharura huzuia mimba vikimezwa mapema iwezekanavyo baada ya ngono isiyo
+      salama, ikiwezekana ndani ya saa 72. Haviharibu mimba iliyokwisha kutungwa na si njia
+      ya kila siku. Vinapatikana vituo vya afya na maduka ya dawa. Pima pia magonjwa ya zinaa.
+    note_en: >-
+      Levonorgestrel EC as soon as possible, ideally within 72 hours. Does not end an
+      established pregnancy; not for regular use. Advise STI testing.
+    sources:
+      - WHO Emergency contraception fact sheet
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: sti_condoms
+    topic: magonjwa_ya_zinaa
+    life_stage: adolescence
+    type: faq
+    questions:
+      - kondomu inazuia ukimwi
+      - jinsi ya kutumia kondomu
+      - kondomu zinapatikana wapi bure
+      - do condoms prevent hiv
+    keywords: [kondomu, condom, ukimwi, vvu, kinga, zinaa]
+    answer_sw: >-
+      Kondomu ikitumika vizuri kila mara, inazuia mimba na magonjwa ya zinaa ikiwemo VVU.
+      Tumia kondomu mpya kila tendo, angalia tarehe ya kuisha, usitumie mbili kwa pamoja.
+      Kondomu zinapatikana bure kwenye vituo vingi vya afya vya serikali.
+    note_en: >-
+      Correct and consistent condom use prevents pregnancy and STIs including HIV. New condom
+      each act, check expiry, never double up.
+    sources:
+      - WHO Family Planning: A Global Handbook for Providers (2022)
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: sti_signs
+    topic: magonjwa_ya_zinaa
+    life_stage: adolescence
+    type: faq
+    questions:
+      - dalili za magonjwa ya zinaa ni zipi
+      - natoka uchafu ukeni wenye harufu
+      - nina vidonda sehemu za siri
+      - naumia nikikojoa
+      - what are the signs of sti
+    keywords: [zinaa, uchafu, ukeni, harufu, vidonda, kukojoa, kaswende, kisonono, sti, discharge]
+    answer_sw: >-
+      Dalili za magonjwa ya zinaa ni kama uchafu usio wa kawaida ukeni, harufu mbaya, vidonda
+      sehemu za siri, maumivu wakati wa kukojoa na maumivu chini ya tumbo. Wengi hawana dalili.
+      Pima na upate tiba kituo cha afya; mwenzi wako apimwe na atibiwe pia.
+    note_en: >-
+      Common STI symptoms: abnormal discharge, odour, genital ulcers, dysuria, lower abdominal
+      pain. Many are asymptomatic. Test and treat, including partner. NURU does not diagnose.
+    sources:
+      - WHO Guidelines for the management of symptomatic STIs (2021)
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: sti_myth_hiv_transmission
+    topic: magonjwa_ya_zinaa
+    life_stage: adolescence
+    type: myth
+    questions:
+      - ni kweli ukimwi unaambukizwa kwa mbu
+      - naweza kupata vvu kwa kula sahani moja
+      - kukumbatiana kunaambukiza ukimwi
+      - can mosquitoes spread hiv
+    keywords: [ukimwi, vvu, mbu, sahani, vyombo, kukumbatiana, choo, kuambukiza, myth, kweli, hiv]
+    answer_sw: >-
+      Si kweli. VVU haviambukizwi kwa kushiriki chakula, vyombo, choo, kukumbatiana au kuumwa
+      na mbu. VVU huambukizwa kwa ngono isiyo salama, damu yenye VVU, na kutoka kwa mama kwenda
+      kwa mtoto. Kupima ni bure na ni siri kwenye vituo vya afya.
+    note_en: >-
+      Myth: HIV spreads through sharing food, utensils, toilets, hugging or mosquito bites.
+      Fact: sexual, blood and mother-to-child transmission. Free confidential testing.
+    sources:
+      - WHO HIV fact sheet
+      - Tanzania National AIDS Control Programme
+    status: draft_pending_clinical_review
+    reviewed_by: null

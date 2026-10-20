@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+
+# Environments and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# Data that must never be committed
+data/*.private.csv
+data/hfr_*.csv
+logs/
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

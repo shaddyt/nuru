@@ -1,0 +1,114 @@
+# NURU content library: newborn care (mtoto mchanga)
+# Every entry is DRAFT until a licensed clinician signs it off.
+# Under-five module (lishe, danger signs, immunisation follow-up) expands in phase 2.
+
+entries:
+  - id: nb_breastfeeding
+    topic: kunyonyesha
+    life_stage: newborn
+    type: faq
+    questions:
+      - nimnyonyeshe mtoto lini
+      - mtoto anywe maji
+      - kunyonyesha pekee miezi mingapi
+      - how long should i exclusively breastfeed
+    keywords: [kunyonyesha, maziwa ya mama, miezi sita, maji, uji, breastfeeding]
+    answer_sw: >-
+      Mnyonyeshe mtoto ndani ya saa 1 baada ya kuzaliwa. Mpe maziwa ya mama pekee kwa miezi 6
+      ya kwanza, bila maji, uji wala chakula kingine. Mnyonyeshe mara kwa mara mchana na usiku.
+      Baada ya miezi 6 anza vyakula vingine na uendelee kunyonyesha hadi miaka 2 au zaidi.
+    note_en: >-
+      Early initiation within 1 hour, exclusive breastfeeding to 6 months, continued
+      breastfeeding to 2 years or beyond with complementary foods.
+    sources:
+      - WHO / UNICEF infant and young child feeding recommendations
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: nb_myth_colostrum
+    topic: kunyonyesha
+    life_stage: newborn
+    type: myth
+    questions:
+      - maziwa ya kwanza ni machafu
+      - nimwage maziwa ya kwanza
+      - ni kweli dang'a si nzuri kwa mtoto
+      - is colostrum bad for the baby
+    keywords: [maziwa ya kwanza, danga, machafu, kumwaga, colostrum, myth, kweli]
+    answer_sw: >-
+      Si kweli. Maziwa ya kwanza ya mama (dang'a) si machafu. Ni chakula bora cha kwanza cha
+      mtoto na yana kinga dhidi ya magonjwa, kama chanjo ya kwanza. Usiyamwage. Mnyonyeshe
+      mtoto mara baada ya kuzaliwa, ndani ya saa 1.
+    note_en: >-
+      Myth: colostrum is dirty and should be discarded. Fact: colostrum is protective and should
+      be given; initiate breastfeeding within 1 hour.
+    sources:
+      - WHO / UNICEF infant and young child feeding recommendations
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: nb_cord_care
+    topic: kitovu
+    life_stage: newborn
+    type: faq
+    questions:
+      - nitunze kitovu cha mtoto vipi
+      - nipake nini kwenye kitovu
+      - kitovu kinadondoka lini
+      - how do i care for the umbilical cord
+    keywords: [kitovu, cord, kupaka, mafuta, majivu, usafi]
+    answer_sw: >-
+      Weka kitovu cha mtoto kikiwa safi na kikavu. Usipake kitu chochote kama mafuta, majivu au
+      dawa za kienyeji, isipokuwa dawa uliyopewa kituo cha afya. Nawa mikono kabla ya kukishika.
+      Kitovu kikitoa usaha, harufu mbaya au wekundu unaosambaa, nenda kituo cha afya mara moja.
+    note_en: >-
+      Clean dry cord care; chlorhexidine only where provided per national policy. Nothing
+      else applied. Signs of infection require urgent review.
+    sources:
+      - WHO recommendations on postnatal care of the mother and newborn
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: nb_warmth
+    topic: joto
+    life_stage: newborn
+    type: faq
+    questions:
+      - nimkinge mtoto mchanga na baridi vipi
+      - nimwogeshe mtoto lini baada ya kuzaliwa
+      - kangaroo ni nini
+      - how do i keep my newborn warm
+    keywords: [joto, baridi, kangaroo, kuogesha, kufunika, warm]
+    answer_sw: >-
+      Mkinge mtoto mchanga na baridi: mfunike vizuri pamoja na kichwa, mweke mwili kwa mwili
+      kifuani mwako (njia ya kangaroo), na usimwogeshe katika saa 24 za kwanza. Akiwa wa baridi
+      sana au mwenye homa, mpeleke kituo cha afya mara moja.
+    note_en: >-
+      Thermal care: cover including head, skin-to-skin, delay first bath 24 hours. Hypothermia
+      or fever in a newborn needs urgent care.
+    sources:
+      - WHO recommendations on maternal and newborn care for a positive postnatal experience (2022)
+    status: draft_pending_clinical_review
+    reviewed_by: null
+
+  - id: nb_immunisation
+    topic: chanjo
+    life_stage: newborn
+    type: faq
+    questions:
+      - mtoto apate chanjo lini
+      - ratiba ya chanjo za mtoto
+      - nimekosa tarehe ya chanjo nifanye nini
+      - when does my baby get vaccines
+    keywords: [chanjo, ratiba, bcg, polio, surua, kadi, vaccine, immunisation]
+    answer_sw: >-
+      Chanjo ni bure kwenye vituo vya afya vya serikali. Mtoto hupata chanjo za kwanza (BCG na
+      polio) anapozaliwa, kisha wiki 6, 10 na 14, na miezi 9 na 18. Beba kadi ya kliniki ya
+      mtoto kila mara. Ukikosa tarehe, nenda kituoni; chanjo zinaweza kuendelea.
+    note_en: >-
+      Tanzania EPI contact points: birth (BCG, OPV0), 6, 10, 14 weeks, 9 and 18 months (measles
+      rubella). Catch-up if missed. Verify against current national schedule before launch.
+    sources:
+      - Tanzania MoH Immunization and Vaccine Development Programme schedule
+    status: draft_pending_clinical_review
+    reviewed_by: null

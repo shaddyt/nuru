@@ -1,0 +1,24 @@
+# SAMPLE DATA FOR DEMO ONLY. NOT OFFICIAL. DO NOT USE FOR REAL REFERRALS.
+# Facility names, codes, types and ward/village assignments below are illustrative placeholders.
+# They have NOT been checked against the Ministry of Health Health Facility Registry (HFR).
+# Before any pilot, replace this file with the official HFR export obtained from the
+# Ministry of Health, mapped to these columns. No coordinates are included on purpose.
+# Lines starting with # are ignored by nuru/facility.py.
+hfr_code,name,facility_type,ownership,region,council,ward,villages
+SAMPLE-0001,Zahanati ya Makole (SAMPLE),dispensary,government,Dodoma,Dodoma CC,Makole,Makole A;Makole B
+SAMPLE-0002,Kituo cha Afya Makole (SAMPLE),health_centre,government,Dodoma,Dodoma CC,Makole,
+SAMPLE-0003,Zahanati ya Chamwino (SAMPLE),dispensary,government,Dodoma,Dodoma CC,Chamwino,Chamwino Kati
+SAMPLE-0004,Zahanati ya Kikuyu (SAMPLE),dispensary,government,Dodoma,Dodoma CC,Kikuyu Kusini,Kikuyu
+SAMPLE-0005,Kituo cha Afya Ipagala (SAMPLE),health_centre,government,Dodoma,Dodoma CC,Ipagala,Ipagala Juu;Ipagala Chini
+SAMPLE-0006,Zahanati ya Nkuhungu (SAMPLE),dispensary,government,Dodoma,Dodoma CC,Nkuhungu,Nkuhungu
+SAMPLE-0007,Zahanati ya Kizota (SAMPLE),dispensary,government,Dodoma,Dodoma CC,Kizota,Kizota
+SAMPLE-0008,Kituo cha Afya Mkonze (SAMPLE),health_centre,government,Dodoma,Dodoma CC,Mkonze,Mkonze;Mapinduzi
+SAMPLE-0009,Zahanati ya Chang'ombe (SAMPLE),dispensary,government,Dodoma,Dodoma CC,Chang'ombe,Chang'ombe
+SAMPLE-0010,Zahanati ya Mbabala (SAMPLE),dispensary,government,Dodoma,Dodoma CC,Mbabala,Mbabala;Bihawana
+SAMPLE-0011,Zahanati ya Nzuguni (SAMPLE),dispensary,government,Dodoma,Dodoma CC,Nzuguni,Nzuguni
+SAMPLE-0012,Kituo cha Afya Hombolo (SAMPLE),health_centre,government,Dodoma,Dodoma CC,Hombolo Bwawani,Hombolo
+SAMPLE-0013,Zahanati ya Kiwanja cha Ndege (SAMPLE),dispensary,government,Dodoma,Dodoma CC,Kiwanja cha Ndege,
+SAMPLE-0014,Hospitali ya Mfano Dodoma (SAMPLE),regional_referral_hospital,government,Dodoma,Dodoma CC,Uhuru,
+SAMPLE-0015,Kliniki Binafsi ya Mfano (SAMPLE),dispensary,private,Dodoma,Dodoma CC,Uhuru,
+SAMPLE-0016,Kituo cha Afya Bahi (SAMPLE),health_centre,government,Dodoma,Bahi DC,Bahi,Bahi Sokoni
+SAMPLE-0017,Hospitali ya Wilaya ya Mfano Kongwa (SAMPLE),district_hospital,government,Dodoma,Kongwa DC,Kongwa,
